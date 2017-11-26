@@ -22,7 +22,11 @@ int main()
 }
 
 
-//Increase Counter at every loop until the number is zero
+/*
+>>> Increase Counter at every loop until the number is zero
+#Input : nr(a given integer number)
+#Output : ct(the number of figures that compose the number)
+*/
 int count(int nr)
 {
 	int ct = 0;
