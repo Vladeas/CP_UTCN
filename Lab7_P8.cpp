@@ -22,6 +22,11 @@ int main()
 }
 
 
+/*
+>>> Calculate the product of the numbers by mutiple additions
+#Input : a,b(Two given integer numbers)
+#Output : s(The product of a and b)
+*/
 int product(int a, int b)
 {
 	if (a == 1)
@@ -31,5 +36,5 @@ int product(int a, int b)
 	int s = 0;
 	for (int i = 0; i < b; i++)
 		s += a;
-	return a;
+	return s;
 }
