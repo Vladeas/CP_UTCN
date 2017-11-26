@@ -1,3 +1,8 @@
+/*
+>>> Write a program that reads n integer numbers from the keyboard and displays those that can be
+divided by 3.
+*/
+
 #define CRT_SECURE_NO_WARNINGS
 
 #include <iostream>
