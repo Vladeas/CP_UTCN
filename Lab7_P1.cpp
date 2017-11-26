@@ -1,3 +1,8 @@
+/*
+>>> Read from the keyboard 3 integer numbers (a, b and c). Determine the area of the rectangle that has
+the sides equal to a and b and verify if the rectangle’s diagonal is equal to c.
+*/
+
 #define CRT_SECURE_NO_WARNINGS
 
 #include <iostream>
