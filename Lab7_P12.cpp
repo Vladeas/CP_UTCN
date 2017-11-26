@@ -19,6 +19,11 @@ int main()
 	_getch();
 }
 
+/*
+>>> Directly add the given number to the previous and count them
+#Input : n(a given integer number)
+#Output : -(The sum of the numbers, and their number is printed on the screen)
+*/
 void sum(int n)
 {
 	float sum = 0, x;
