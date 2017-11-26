@@ -1,3 +1,8 @@
+/*
+>>> Write a program that reads from the keyboard n integer numbers. Display all the odd numbers and
+store them in an array.
+*/
+
 #define CRT_SECURE_NO_WARNINGS
 
 #include <iostream>
