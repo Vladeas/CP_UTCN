@@ -1,6 +1,5 @@
 /*
->>> Write a program that reads from the keyboard n integer numbers. Display all the odd numbers and
-store them in an array.
+>>> Write a program that reads from the keyboard n integer numbers. Display all the odd numbers.
 */
 
 #define CRT_SECURE_NO_WARNINGS
@@ -20,6 +19,12 @@ int main()
 	return 0;
 }
 
+
+/*
+>>> Recursive function, the given integer numbers are not stored
+#Input : n (number of integers)
+#Output : -(Prints on the screen the result)
+*/
 void odd(int n)
 {
 	int x;
