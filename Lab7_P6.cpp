@@ -1,3 +1,8 @@
+/*
+>>> Write a program that determines the greatest common divider of 2 integer values read from the
+keyboard.
+*/
+
 #define CRT_SECURE_NO_WARNINGS
 
 #include <iostream>
