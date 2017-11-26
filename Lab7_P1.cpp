@@ -36,7 +36,7 @@ int area(int a, int b)
 }
 
 
-//Check with Pythagoras formula if C can be diagonal
+//Check with Pythagoras formula if C can be the diagonal
 int check(int a, int b, int c)
 {
 	if (a*a + b*b == c*c)
