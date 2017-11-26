@@ -1,3 +1,8 @@
+/*
+>>> Write a program that reads from the keyboard a single character. The program should display that
+character on n rows, n times in a row.
+*/
+
 #define CRT_SECURE_NO_WARNINGS
 
 #include <iostream>
