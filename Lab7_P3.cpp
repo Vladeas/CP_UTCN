@@ -19,6 +19,12 @@ int main()
 	system("pause");
 }
 
+
+/*
+>>> Calculate a^n by using multiplication
+#Input : a(The given integer number), n(Thr power of a)
+#Output : p(a at power n)
+*/
 int power(int a, int n)
 {
 	int p = 1;
