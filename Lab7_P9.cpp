@@ -1,3 +1,8 @@
+/*
+>>> Write a program that determines the integer quotient of 2 integer numbers using a series of
+subtractions.
+*/
+
 #define CRT_SECURE_NO_WARNINGS
 
 #include <iostream>
