@@ -23,6 +23,12 @@ int main()
 	return 0;
 }
 
+
+/*
+>>> Similar to printing a matrix(go on lines and columns)
+#Input : n(number of columns and lines), x(the character to be printed)
+#output : -(The result is printed on the screen)
+*/
 void print(int n, char x)
 {
 	int i, j;
