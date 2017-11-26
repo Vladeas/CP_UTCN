@@ -1,3 +1,9 @@
+/*
+>>> Write a program that:
+	- determines the greatest prime number that’s smaller than a certain given number;
+	- determines all the prime numbers smaller than a given number;
+*/
+
 #define CRT_SECURE_NO_WARNINGS
 
 #include <iostream>
