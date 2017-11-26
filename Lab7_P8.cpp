@@ -1,3 +1,7 @@
+/*
+>>> Calculate the product of 2 integer numbers using additions.
+*/
+
 #define CRT_SECURE_NO_WARNINGS
 
 #include <iostream>
