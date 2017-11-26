@@ -19,6 +19,12 @@ int main()
 	return 0;
 }
 
+
+/*
+>>> Repeat a loop until _getch(catches the ESC key from the keyboard), print the average of the positive odd numbers
+#Input : -(All the numbers are read in the function)
+#Output : -(The result is printed on the screen)
+*/
 void print()
 {
 	int x, esc, ct = 0, sum = 0;
