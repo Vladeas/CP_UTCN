@@ -20,6 +20,12 @@ int main()
 	return 0;
 }
 
+
+/*
+>>> Recursive function, the valid integer numbers are displayed on the screen
+#Input : n(An integer number/How many numbers we need to add)
+#Output : -(Result directly displayed on the screen)
+*/
 void odd(int n)
 {
 	int x;
