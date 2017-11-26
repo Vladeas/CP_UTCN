@@ -1,3 +1,7 @@
+/*
+>>> Determine the least common multiple of 2 integer numbers read from the keyboard.
+*/
+
 #define CRT_SECURE_NO_WARNINGS
 
 
