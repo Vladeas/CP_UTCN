@@ -18,6 +18,12 @@ int main()
 	system("pause");
 }
 
+
+/*
+>>> Calculate the factorial value of n
+#Input : n(A given integer number)
+#Output : rez(Factorial value of n)
+*/
 int factorial(int n)
 {
 	int rez = 1;
