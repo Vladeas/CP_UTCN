@@ -26,6 +26,7 @@ int main()
 		cout << ">>> The given lenght is not a diagonal\n";
 	
 	system("pause");
+	return 0;
 }
 
 
