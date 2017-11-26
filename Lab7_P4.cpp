@@ -1,3 +1,7 @@
+/*
+>>> Write a program that reads from the keyboard an integer value n, and calculates n! (n-factorial).
+*/
+
 #define CRT_SECURE_NO_WARNINGS
 
 #include <iostream>
