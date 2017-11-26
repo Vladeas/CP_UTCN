@@ -15,6 +15,7 @@ int main()
 	cin >> a;
 	cout << " b = ";
 	cin >> b;
+	
 	r = a%b;
 	while (r)
 	{
@@ -23,6 +24,7 @@ int main()
 		r = a%b;
 	}
 	cout << "cmmdc: " << b << endl;
+	
 	system("pause");
 	return 0;
 }
