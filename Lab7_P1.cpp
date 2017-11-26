@@ -30,14 +30,22 @@ int main()
 }
 
 
-//The area of the rectangle
+/*
+>>> The area of the rectangle
+#Input : a, b(the lenghts of the rectangle)
+#Output : the area of the rectangle
+*/
 int area(int a, int b)
 {
 	return a*b;
 }
 
 
-//Check with Pythagoras formula if C can be the diagonal
+/*
+>>> Check with Pythagoras formula if C can be the diagonal.
+#Input : a, b(the lenghts of the rectangle), c(the proposed diagonal length)
+#Output : 1(If the length of the diagonal fits), 0(Otherwise)
+*/
 int check(int a, int b, int c)
 {
 	if (a*a + b*b == c*c)
