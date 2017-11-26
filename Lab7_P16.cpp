@@ -1,3 +1,8 @@
+/*
+>>> Write a C/C++ application that reads from the keyboard a series of integer numbers, until the user
+presses on the <Esc>- key. Determine and display the average value of the odd positive numbers.
+*/
+
 #define CRT_SECURE_NO_WARNINGS
 
 #include <iostream>
