@@ -26,6 +26,12 @@ int main()
 	return 0;
 }
 
+
+/*
+>>> Divide two numbers by multiple substractions
+#Input : a,b(Two integer numbers)
+#Output : ct(Number of substractions)
+*/
 int divide(int a, int b)
 {
 	if (a < b)
