@@ -34,6 +34,12 @@ int main()
 	system("pause");
 }
 
+
+/*
+>>> Use an array to keep track of the prime numbers(1), their multiple(2) and unchecked numbers(0)
+#Input : n(Length of array), x(The array,(0 on all positions))
+#Output : 0(If the length is to small), 1(Otherwise)
+*/
 int lenght(int n, int x[])
 {
 	if (n <= 2)
@@ -49,6 +55,13 @@ int lenght(int n, int x[])
 	return 1;
 }
 
+
+
+/*
+>>> Put 2 on the position of all numbers that are multiple of a given number n
+#Input : n(Length of array), x(Array of positions), nr(the prime number whose multiples we search)
+#Output : -
+*/
 void fill(int n, int x[],int nr)
 {
 	//Fill all the numbers that divide with the given prime number
@@ -57,6 +70,12 @@ void fill(int n, int x[],int nr)
 			x[i] = 2;
 }
 
+
+/*
+>>> Check if a number is prime
+#Input : nr(An integer number)
+#Output : 0(The number is not prime), 1(The number is prime)
+*/
 int prim(int nr)
 {
 	for (int i = 3; i <= sqrt(nr); i++)
