@@ -1,3 +1,7 @@
+/*
+>>> Please verify if a natural number introduced from the keyboard is a perfect square or not.
+*/
+
 #define CRT_SECURE_NO_WARNINGS
 
 #include <iostream>
