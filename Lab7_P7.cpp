@@ -1,3 +1,7 @@
+/*
+>>> Write a program that determines all the divisors of a value introduced from the KBD
+*/
+
 #define CRT_SECURE_NO_WARNINGS
 
 #include <iostream>
