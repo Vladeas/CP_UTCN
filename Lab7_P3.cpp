@@ -1,3 +1,8 @@
+/*
+>>> Write a program that calculates a^n,
+where a and n are read from the keyboard.
+*/
+
 #define CRT_SECURE_NO_WARNINGS
 
 #include <iostream>
