@@ -1,3 +1,8 @@
+/*
+>>> Write a program that determines the number of figures that 
+compose an integer number read fromthe keyboard.
+*/
+
 #define CRT_SECURE_NO_WARNINGS
 
 #include <iostream>
